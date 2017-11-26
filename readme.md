@@ -1,0 +1,1 @@
+This is as assignement to implement LinkedList data structure in Java
